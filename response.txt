@@ -1,0 +1,1 @@
+http://www.recipepuppy.com/api/?i=apple,yogurt&format=xmlhttp://www.recipepuppy.com/api/?i=apple,banana&format=xmlhttp://www.recipepuppy.com/api/?i=milk,bread&format=jsonhttp://www.recipepuppy.com/api/?i=apple ,banana&format=jsonhttp://www.recipepuppy.com/api/?i=apple,chocolate&format=json
