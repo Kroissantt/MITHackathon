@@ -1,6 +1,6 @@
 Thanks for Downloading Recipe Receiver!
 
-To run the app, click on the executable file labeled "Recipe Receiver"
+To run the app, click on the executable file labeled "Recipe Receiver", and then click on input.php
 
 The Python program included is an example of the same app created using API integration with Python. This was done to demonstrate the flexibility of out idea.
 
